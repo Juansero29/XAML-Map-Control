@@ -5,7 +5,6 @@
         <Copyright>Copyright © 2024 Clemens Fischer</Copyright>
         <Version>12.1.0</Version>
         <AssemblyVersion>$(Version)</AssemblyVersion>
-        <AssemblyOriginatorKeyFile>..\..\MapControl.snk</AssemblyOriginatorKeyFile>
         <SignAssembly>true</SignAssembly>
         <DelaySign>false</DelaySign>
         <GeneratePackage>false</GeneratePackage>
