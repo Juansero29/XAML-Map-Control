@@ -11,7 +11,7 @@
         <RootNamespace>SampleApplication</RootNamespace>
         <AssemblyTitle>XAML Map Control WinUI Sample Application</AssemblyTitle>
         <AnalysisLevel>none</AnalysisLevel>
-        <EnablePreviewMsixTooling>true</EnablePreviewMsixTooling>
+        <EnableMsixTooling>true</EnableMsixTooling>
         <DefineConstants>WINUI</DefineConstants>
     </PropertyGroup>
 
